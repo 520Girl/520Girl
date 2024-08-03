@@ -102,7 +102,7 @@
  <!--SNAKETITLE / WEBSITE: https://textanim.com/ -->
 <p align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/gongxianzhi.gif?raw=true" width="500">
 <!--SNAKEGRAPH / WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/520Girl/520Girl/output/github-contribution-grid-snake.svg?raw=true"
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?raw=true"
 width="100%">
 
 <table>
