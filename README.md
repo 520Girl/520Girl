@@ -1,7 +1,7 @@
 <!--访问次数-->
 <h2>Watching</h2>
 <div align="center">
-    <img src="https://profile-counter.glitch.me/520Girl1/count.svg">
+    <img src="https://profile-counter.glitch.me/520Girl/count.svg">
     <img src="https://komarev.com/ghpvc/?username=520Girl&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%">
     <img src="https://badges.pufler.dev/visits/520Girl/520Girl?color=black&logo=github&style=flat-square">
 </div>
