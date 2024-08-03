@@ -7,13 +7,13 @@
 </div>
 <!-- 访问数据-鸭鸭-->
 <div align="center">
-    <img src="https://github.com/520Girl/520Girl/qrcode_c2.svg?raw=true"width="20%">
+    <img src="https://github.com/520Girl/520Girl/blob/main/qrcode_c2.svg?raw=true"width="50%">
 </div>
-    <img src="https://github.com/520Girl/HeartYang.github.io/blob/main/share/HeartYang.gif?raw=true">
+    <img src="https://github.com/520Girl/520Girl/blob/main/GIF 2024-8-3 21-27-56.gif?raw=true">
 <div>
-<p><strong>&emsp;&emsp; <a href="https://520Girl.github.io/Galaxy-Network-Interactive-Desktop">  Click to get ❤️® </a> </strong>
+<p><strong>&emsp;&emsp; <a href="https://520girl.github.io/Galaxy-Network-Interactive/">  Click to get ❤️® </a> </strong>
 </div>
-<details>
+<!-- <details>
     <summary>
         <h2>Share QR</h2>
     </summary>
@@ -21,37 +21,37 @@
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_f.png?raw=true"width="20%">
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_e.png?raw=true"width="20%">
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_g.gif?raw=true"width="20%">
-</details>
-<details>
+</details> -->
+<!-- <details>
     <summary>
         <h2>Play Music</h2>
     </summary>
 
 <https://github.com/heartyang520/heartyang520/assets/51397676/940a09b7-e660-45a5-9cc0-4ab3e3b31aa4>
 
-</details>
+</details> -->
 
-###### This page contains a lot of videos, please pay attention to traffic
+<!-- ###### This page contains a lot of videos, please pay attention to traffic -->
 <!--个人首页-->
-<details>
+<!-- <details>
     <summary>
         <h2> Watch the Vlog </h2>
     </summary>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/home.gif?raw=true">
-</details>
+</details> -->
 <table>
 <br>
 </br>
 
 <!-- 个人简介-->
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://navai.vip/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
 <br><br>
 <!-- Star 2023-->
 <div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
 
 <!-- 数据展示-主题&theme=radical-->
 <img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heartyang520&theme=radical&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=520Girl&theme=radical&hide_border=true" />
 &emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
 
 
@@ -66,9 +66,9 @@
 <!--Line跑码线-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 <!--贡献速度-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heartyang520&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=520Girl&theme=react-dark&bg_color=20232a&hide_border=true"width="100%"/>
 <!-- Github数据展示-->
-<div align="center"> <img src="https://metrics.lecoq.io/heartyang520?template=classic&config.timezone=Asia%2Fchengdu"></div>
+<div align="center"> <img src="https://metrics.lecoq.io/520Girl?template=classic&config.timezone=Asia%2Fchengdu"></div>
 <!-- 奖杯-->
 <p align="center">
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
@@ -79,10 +79,10 @@
 <!--LINE-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 <!--使用的语言-搬砖动画-->
-<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=heartyang520&theme=radical&show_icons=true><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
+<div align=""> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=520Girl&theme=radical&show_icons=true><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
 
 <!-- CSDN-bili 数据-->
-<div align=""> <img src="https://stats.justsong.cn/api/csdn/?id=qq_41095608&theme=radical#&lang=zh-CN"> <img src="https://stats.justsong.cn/api/bilibili/?id=327971083&theme=radical#&lang=zh-CN">
+<div align=""> <img src="https://stats.justsong.cn/api/csdn/?id=qq_37768424&theme=radical#&lang=zh-CN"> <img src="https://stats.justsong.cn/api/bilibili/?id=3546573713705570&theme=radical#&lang=zh-CN">
 </div>
 <!--LINE-->
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
@@ -99,7 +99,7 @@
  <!--SNAKETITLE / WEBSITE: https://textanim.com/ -->
 <p align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/gongxianzhi.gif?raw=true" width="500">
 <!--SNAKEGRAPH / WEBSITE: https://github.com/Platane/snk -->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/snk.svg?raw=true"
+<img src="https://raw.githubusercontent.com/520Girl/520Girl/output/github-contribution-grid-snake.svg?raw=true"
 width="100%">
 
 <table>
@@ -109,17 +109,17 @@ width="100%">
 ### About Me
 <div>
 <img align="left" width="25%" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/static/image/liebiao.png?raw=true"/>
-<p>&emsp;&emsp;大家好，我是 Heart Yang ，深度HSP人士</p>
+<p>&emsp;&emsp;大家好，我是 520Girl ，深度HSP人士</p>
 <p>&emsp;&emsp;热爱IT互联网事业，正在通过代码探索世界的美好</p>
 <p>&emsp;&emsp;缔造属于我的梦想，如果你有兴趣和我交流，我会很开心！</p>
-<p><strong>&emsp;&emsp;🎈Contact me_hide in URL address bar: <a href="qq_2056084473@gmail.com"> Google Mail ® </a> </strong>
+<p><strong>&emsp;&emsp;🎈Contact me_hide in URL address bar: <a href="ugly8girl@gmail.com"> Google Mail ® </a> </strong>
 </div>
 </td></tr>
 
 <!--动作效果-->
 <h4 align=""> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
 <!--签名-->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=HeartYang_生活的解药">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=暂时的分别是为了更好的相聚~~❤🎈🎈🎈&author=520Girl_生活的解药">
 <!--电脑端
 图标地址https://www.shields.io/badges
 图标地址https://simpleicons.org/
